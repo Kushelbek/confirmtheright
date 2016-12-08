@@ -6,9 +6,9 @@ Name=Confirmtheright
 Category=administration-management
 Description=Загрузка проверочных файлов на сервер
 Version=1.1.1
-Date=26.11.2016
-Author=WebRomen
-Copyright=Copyright (c) 2015 - today: WebRomen | https://github.com/WebRomen/confirmtheright
+Date=08.12.2016
+Author=Roffun
+Copyright=Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/confirmtheright-plugin
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -23,8 +23,8 @@ Recommends_plugins=boxes
 /**
  * confirmtheright plugin
  *
- * @author  WebRomen
- * @copyright Copyright (c) 2015 - today: WebRomen | https://github.com/WebRomen/confirmtheright
+ * @author Roffun
+ * @copyright Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/confirmtheright-plugin
  * @license BSD
  */
 
