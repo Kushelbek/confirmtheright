@@ -3,7 +3,7 @@
  * confirmtheright plugin
  *
  * @author Roffun
- * @copyright Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/confirmtheright-plugin
+ * @copyright Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 

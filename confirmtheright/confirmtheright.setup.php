@@ -8,7 +8,7 @@ Description=Загрузка проверочных файлов на серве
 Version=1.1.1
 Date=08.12.2016
 Author=Roffun
-Copyright=Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/confirmtheright-plugin
+Copyright=Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -24,7 +24,7 @@ Recommends_plugins=boxes
  * confirmtheright plugin
  *
  * @author Roffun
- * @copyright Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/confirmtheright-plugin
+ * @copyright Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 
